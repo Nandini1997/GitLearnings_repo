@@ -1,1 +1,1 @@
-print("Added a new file")
+print("Added a new file.")
